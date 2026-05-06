@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frantufro.github.io/snippets-ah5quk/sitemap.xml
